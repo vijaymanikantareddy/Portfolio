@@ -1,0 +1,623 @@
+.mediaViewInfo {
+	--web-view-name: About Me;
+	--web-view-id: About_Me;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font:  'Poppins', sans-serif;;
+}
+:root {
+	--web-view-ids: About_Me;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#About_Me {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	font-family:  'Poppins', sans-serif;;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: About Me;
+	--web-view-id: About_Me;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font:  'Poppins', sans-serif;;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#About_us {
+	position: absolute;
+	width: 1236px;
+	height: 794px;
+	left: 381px;
+	top: 199px;
+	overflow: visible;
+}
+#bg {
+	fill: rgba(255,255,255,1);
+}
+.bg {
+	filter: drop-shadow(0px 0px 59px rgba(96, 233, 255, 0.271));
+	position: absolute;
+	overflow: visible;
+	width: 1413px;
+	height: 764px;
+	left: 0px;
+	top: 207px;
+}
+#image {
+	position: absolute;
+	width: 570px;
+	height: 648px;
+	left: 0px;
+	top: 146px;
+	overflow: visible;
+}
+#image_s {
+	position: absolute;
+	width: 570px;
+	height: 648px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#image_t {
+	position: absolute;
+	width: 570px;
+	height: 648px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#image_u {
+	position: absolute;
+	width: 570px;
+	height: 648px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Clip2 {
+	position: absolute;
+	width: 570px;
+	height: 648px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#hire_me_btn {
+	position: absolute;
+	width: 200px;
+	height: 60px;
+	left: 658px;
+	top: 674px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contact_Me.html;
+	cursor: pointer;
+}
+#Rectangle_386 {
+	opacity: 0.988;
+	fill: rgba(9,190,173,1);
+}
+.Rectangle_386 {
+	filter: drop-shadow(0px 16px 29px rgba(11, 190, 173, 0.412));
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	height: 147px;
+	left: 0px;
+	top: 0px;
+}
+#Hire_Me {
+	left: 63px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: left;
+	font-family: Poppins-SemiBold,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Get_Resume_btn {
+	position: absolute;
+	width: 200px;
+	height: 60px;
+	left: 913px;
+	top: 674px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume.html;
+	cursor: pointer;
+}
+#Rectangle_383 {
+	fill: rgba(245,127,23,1);
+}
+.Rectangle_383 {
+	filter: drop-shadow(0px 16px 28px rgba(245, 127, 23, 0.239));
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	height: 144px;
+	left: 0px;
+	top: 0px;
+}
+#Get_Resume {
+	left: 51px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: left;
+	font-family: Poppins-SemiBold,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#text {
+	position: absolute;
+	width: 519px;
+	height: 436px;
+	left: 677.758px;
+	top: 223px;
+	overflow: visible;
+}
+#Lorem_ipsum_or_lipsum_as_it_is {
+	left: 0px;
+	top: 49.302px;
+	position: absolute;
+	overflow: visible;
+	width: 520px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Poppins-Regular,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+#User_Interface_Design_ {
+	left: 44.242px;
+	top: 280px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: left;
+	font-family: Poppins-Regular,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+#Here_is_Few_Features_ {
+	left: 2.242px;
+	top: 241px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	line-height: 21.600000381469727px;
+	margin-top: -1.8000001907348633px;
+	text-align: left;
+	font-family: Poppins-SemiBold,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(10,190,173,1);
+}
+#Visual__Commination_Design_ {
+	left: 44.242px;
+	top: 344px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: left;
+	font-family: Poppins-Regular,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+#Interaction_Design_ {
+	left: 44.242px;
+	top: 379px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: left;
+	font-family: Poppins-Regular,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+#Supper_Support {
+	left: 44.242px;
+	top: 413px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: left;
+	font-family: Poppins-Regular,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+#User_Experience_Design_ {
+	left: 44.242px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: left;
+	font-family: Poppins-Regular,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+#Why_Choose_me_ {
+	left: 0.242px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins-SemiBold,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(51,51,51,1);
+}
+#cricle {
+	position: absolute;
+	width: 15px;
+	height: 148px;
+	left: 12.242px;
+	top: 282px;
+	overflow: visible;
+}
+#cricle_bc {
+	fill: rgba(245,127,23,1);
+}
+.cricle_bc {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+}
+#cricle_bd {
+	fill: rgba(245,127,23,1);
+}
+.cricle_bd {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 0px;
+	top: 33px;
+}
+#cricle_be {
+	fill: rgba(245,127,23,1);
+}
+.cricle_be {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 0px;
+	top: 66px;
+}
+#cricle_bf {
+	fill: rgba(245,127,23,1);
+}
+.cricle_bf {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 0px;
+	top: 99px;
+}
+#cricle_bg {
+	fill: rgba(245,127,23,1);
+}
+.cricle_bg {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 0px;
+	top: 133px;
+}
+#title {
+	position: absolute;
+	width: 244.903px;
+	height: 137.404px;
+	left: 459.097px;
+	top: 0px;
+	overflow: visible;
+}
+#About_Me_bi {
+	left: 10.903px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	line-height: 57.60000228881836px;
+	margin-top: -4.80000114440918px;
+	text-align: left;
+	font-family: Poppins-Bold,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(10,190,173,1);
+}
+#line {
+	position: absolute;
+	width: 240px;
+	height: 11px;
+	left: 0px;
+	top: 126.404px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(10,190,173,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 100;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 240px;
+	height: 2px;
+	left: 0px;
+	top: 5.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_416 {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_416 {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 11px;
+	left: 104.5px;
+	top: 0px;
+}
+#Why_Choose_Me {
+	left: 25.903px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	line-height: 19.200000762939453px;
+	margin-top: -1.6000003814697266px;
+	text-align: left;
+	font-family: Poppins-Regular,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(10,190,173,1);
+	letter-spacing: 2.5px;
+}
+#Header {
+	position: absolute;
+	width: 1895px;
+	height: 150px;
+	left: 13px;
+	top: 35px;
+	overflow: visible;
+}
+#bg_bo {
+	fill: rgba(255,255,255,1);
+}
+.bg_bo {
+	filter: drop-shadow(0px 3px 59px rgba(4, 195, 255, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 2072px;
+	height: 327px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_Me {
+	left: 1528px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contact_Me.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Portfolio {
+	left: 1385px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Portfolio.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Services {
+	left: 1241px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Services.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Resume {
+	left: 1099px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#About_me {
+	left: 940px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Home {
+	left: 820px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 277px;
+	height: 109px;
+	left: 373px;
+	top: 21px;
+	overflow: visible;
+}
+#My {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	line-height: 93.60000610351562px;
+	margin-top: -7.8000030517578125px;
+	text-align: left;
+	font-family: Poppins-Black,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 78px;
+	color: rgba(10,190,173,1);
+}
+#portfolio {
+	left: 132px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Poppins-Black,  'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(10,190,173,1);
+}
