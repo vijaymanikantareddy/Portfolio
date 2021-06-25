@@ -1,0 +1,638 @@
+.mediaViewInfo {
+	--web-view-name: Services;
+	--web-view-id: Services;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Services;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Services {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Services;
+	--web-view-id: Services;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Services_o {
+	position: absolute;
+	width: 1216px;
+	height: 932.114px;
+	left: 375px;
+	top: 185px;
+	overflow: visible;
+}
+#Web_Design {
+	position: absolute;
+	width: 370px;
+	height: 370.64px;
+	left: 0px;
+	top: 189px;
+	overflow: visible;
+}
+#bg {
+	fill: rgba(133,64,255,1);
+}
+.bg {
+	filter: drop-shadow(0px 0px 35px rgba(118, 13, 255, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 475px;
+	height: 475px;
+	left: 0px;
+	top: 0px;
+}
+#Shape {
+	fill: rgba(128,58,251,1);
+}
+.Shape {
+	overflow: visible;
+	position: absolute;
+	width: 369.919px;
+	height: 223.59px;
+	left: 0px;
+	top: 147.05px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Web_Design_s {
+	left: 84px;
+	top: 185px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(255,255,255,1);
+}
+#icon {
+	fill: rgba(255,255,255,1);
+}
+.icon {
+	overflow: visible;
+	position: absolute;
+	width: 69.016px;
+	height: 64.973px;
+	left: 140.992px;
+	top: 101.027px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Interface_Design {
+	position: absolute;
+	width: 370.225px;
+	height: 370.64px;
+	left: 422.775px;
+	top: 189px;
+	overflow: visible;
+}
+#bg_v {
+	fill: rgba(255,197,12,1);
+}
+.bg_v {
+	filter: drop-shadow(0px 0px 35px rgba(255, 197, 12, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 475px;
+	height: 475px;
+	left: 0.225px;
+	top: 0px;
+}
+#Shape_w {
+	fill: rgba(255,187,1,1);
+}
+.Shape_w {
+	overflow: visible;
+	position: absolute;
+	width: 369.919px;
+	height: 223.59px;
+	left: 0px;
+	top: 147.05px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Interface_Design_x {
+	left: 50.225px;
+	top: 185px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#icon_y {
+	fill: rgba(255,255,255,1);
+}
+.icon_y {
+	overflow: visible;
+	position: absolute;
+	width: 72.005px;
+	height: 65px;
+	left: 149.223px;
+	top: 101px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Web_Development {
+	position: absolute;
+	width: 370.37px;
+	height: 370px;
+	left: 845.63px;
+	top: 190px;
+	overflow: visible;
+}
+#bg_ {
+	fill: rgba(236,64,122,1);
+}
+.bg_ {
+	filter: drop-shadow(0px 3px 35px rgba(236, 64, 122, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 475px;
+	height: 475px;
+	left: 0.37px;
+	top: 0px;
+}
+#shape {
+	fill: rgba(245,39,108,1);
+}
+.shape {
+	overflow: visible;
+	position: absolute;
+	width: 369.92px;
+	height: 223.59px;
+	left: 0px;
+	top: 146.05px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Web_Development_ {
+	left: 58.37px;
+	top: 184px;
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	text-align: center;
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+}
+#icon_ {
+	fill: rgba(255,255,255,1);
+}
+.icon_ {
+	overflow: visible;
+	position: absolute;
+	width: 79px;
+	height: 65px;
+	left: 146.37px;
+	top: 100px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#UX_Design {
+	position: absolute;
+	width: 370px;
+	height: 370.114px;
+	left: 0px;
+	top: 562px;
+	overflow: visible;
+}
+#bg_ba {
+	fill: rgba(255,99,49,1);
+}
+.bg_ba {
+	filter: drop-shadow(0px 0px 28px rgba(255, 99, 49, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 454px;
+	height: 454px;
+	left: 0px;
+	top: 0px;
+}
+#Shape_ {
+	fill: rgba(255,88,35,1);
+}
+.Shape_ {
+	overflow: visible;
+	position: absolute;
+	width: 369.919px;
+	height: 223.589px;
+	left: 0px;
+	top: 146.525px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#UX_Design_ {
+	left: 91px;
+	top: 185px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(255,255,255,1);
+}
+#icon_ba {
+	fill: rgba(255,255,255,1);
+}
+.icon_ba {
+	overflow: visible;
+	position: absolute;
+	width: 72.977px;
+	height: 64.991px;
+	left: 139.511px;
+	top: 92.035px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Motion_Graphic {
+	position: absolute;
+	width: 370.226px;
+	height: 370.114px;
+	left: 422.774px;
+	top: 562px;
+	overflow: visible;
+}
+#bg_bb {
+	fill: rgba(19,182,255,1);
+}
+.bg_bb {
+	filter: drop-shadow(0px 0px 35px rgba(19, 182, 255, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 475px;
+	height: 475px;
+	left: 0.226px;
+	top: 0px;
+}
+#Shape_bb {
+	fill: rgba(3,172,248,1);
+}
+.Shape_bb {
+	overflow: visible;
+	position: absolute;
+	width: 369.92px;
+	height: 223.589px;
+	left: 0px;
+	top: 146.525px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Motion_Graphic_bc {
+	left: 70.226px;
+	top: 193px;
+	position: absolute;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	text-align: center;
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+#icon_bd {
+	fill: rgba(255,255,255,1);
+}
+.icon_bd {
+	overflow: visible;
+	position: absolute;
+	width: 64.99px;
+	height: 64.99px;
+	left: 152.731px;
+	top: 103.01px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Seo_Optimize {
+	position: absolute;
+	width: 370.37px;
+	height: 370.114px;
+	left: 845.63px;
+	top: 562px;
+	overflow: visible;
+}
+#bg_bf {
+	fill: rgba(73,175,70,1);
+}
+.bg_bf {
+	filter: drop-shadow(0px 0px 35px rgba(73, 175, 70, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 475px;
+	height: 475px;
+	left: 0.37px;
+	top: 0px;
+}
+#shape_bg {
+	fill: rgba(73,184,70,1);
+}
+.shape_bg {
+	overflow: visible;
+	position: absolute;
+	width: 369.92px;
+	height: 223.589px;
+	left: 0px;
+	top: 146.525px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#SEO_Optimize {
+	left: 83.37px;
+	top: 185px;
+	position: absolute;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#icon_bi {
+	fill: rgba(255,255,255,1);
+}
+.icon_bi {
+	overflow: visible;
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 152.37px;
+	top: 98px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Title {
+	position: absolute;
+	width: 262px;
+	height: 133px;
+	left: 454px;
+	top: 0px;
+	overflow: visible;
+}
+#line {
+	position: absolute;
+	width: 240px;
+	height: 11px;
+	left: 10.671px;
+	top: 122px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(10,190,173,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 100;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 240px;
+	height: 2px;
+	left: 0px;
+	top: 6.47px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#line_bm {
+	fill: rgba(10,190,173,1);
+}
+.line_bm {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 11px;
+	left: 104.329px;
+	top: 0px;
+}
+#What_We_Provide_You_ {
+	left: 0px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 263px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+	letter-spacing: 2.5px;
+}
+#Services_bo {
+	left: 24px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	line-height: 57.60000228881836px;
+	margin-top: -4.80000114440918px;
+	text-align: left;
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(10,190,173,1);
+}
+#Header {
+	position: absolute;
+	width: 1895px;
+	height: 150px;
+	left: 13px;
+	top: 35px;
+	overflow: visible;
+}
+#bg_bq {
+	fill: rgba(255,255,255,1);
+}
+.bg_bq {
+	filter: drop-shadow(0px 3px 59px rgba(4, 195, 255, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 2072px;
+	height: 327px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_Me {
+	left: 1528px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contact_Me.html;
+	cursor: pointer;
+	text-align: left;
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Portfolio {
+	left: 1385px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Portfolio.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Services_bt {
+	left: 1241px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Resume {
+	left: 1099px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#About_me {
+	left: 940px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About_Me.html;
+	cursor: pointer;
+	text-align: left;
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Home {
+	left: 820px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family:'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 277px;
+	height: 109px;
+	left: 373px;
+	top: 21px;
+	overflow: visible;
+}
+#My {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	line-height: 93.60000610351562px;
+	margin-top: -7.8000030517578125px;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 78px;
+	color: rgba(10,190,173,1);
+}
+#portfolio {
+	left: 132px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(10,190,173,1);
+}
