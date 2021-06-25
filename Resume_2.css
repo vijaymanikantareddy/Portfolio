@@ -1,0 +1,817 @@
+.mediaViewInfo {
+	--web-view-name: Resume 2;
+	--web-view-id: Resume_2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: 'Poppins', sans-serif;;
+	--web-page-font-width:'Poppins-Bold';
+	--web-is-overlay: true;
+}
+:root {
+	--web-view-ids: Resume_2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Resume_2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	font-family: 'Poppins', sans-serif;;
+	overflow: hidden;
+	cursor: pointer;
+	--web-view-name: Resume 2;
+	--web-view-id: Resume_2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: 'Poppins', sans-serif;;
+	--web-is-overlay: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Resume {
+	position: absolute;
+	width: 2744.124px;
+	height: 1086.066px;
+	left: -411.603px;
+	top: -2.298px;
+	overflow: visible;
+}
+#bg {
+	fill: rgba(255,255,255,1);
+}
+.bg {
+	filter: drop-shadow(0px 0px 81px rgba(19, 182, 255, 0.239));
+	overflow: visible;
+	position: absolute;
+	width: 2987.124px;
+	height: 1329.066px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Education {
+	position: absolute;
+	width: 696px;
+	height: 416px;
+	left: 1287.603px;
+	top: 395.298px;
+	overflow: visible;
+}
+#line_with_cricle {
+	position: absolute;
+	width: 19px;
+	height: 416px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Line_2 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(10,190,173,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 100;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 416px;
+	left: 10px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_6 {
+	fill: rgba(10,190,173,1);
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 24px;
+}
+#Ellipse_7 {
+	fill: rgba(10,190,173,1);
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 166px;
+}
+#Ellipse_8 {
+	fill: rgba(10,190,173,1);
+}
+.Ellipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 291px;
+}
+#Education_01 {
+	position: absolute;
+	width: 652px;
+	height: 120px;
+	left: 44px;
+	top: 19px;
+	overflow: visible;
+}
+#Reference_site_about_Lorem_Ips {
+	left: 0px;
+	top: 73px;
+	position: absolute;
+	overflow: visible;
+	width: 637px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Poppins-Regular, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+#_In__Information_Technology_ {
+	left: 0px;
+	top: 43px;
+	position: absolute;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Poppins-SemiBold, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+}
+#year {
+	position: absolute;
+	width: 110px;
+	height: 30px;
+	left: 542px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_417 {
+	fill: rgba(245,127,23,1);
+}
+.Rectangle_417 {
+	filter: drop-shadow(0px 3px 7px rgba(245, 127, 23, 0.239));
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+}
+#ID2020-24 {
+	left: 22px;
+	top: 4px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Poppins-Regular, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Education_02 {
+	position: absolute;
+	width: 283px;
+	height: 28px;
+	left: 44px;
+	top: 25px;
+	overflow: visible;
+}
+#MCR_solutionsBhimavaram {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Poppins-SemiBold, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,88,35,1);
+}
+#tab_menu {
+	position: absolute;
+	width: 370px;
+	height: 416px;
+	left: 863.603px;
+	top: 395.298px;
+	overflow: visible;
+}
+#white_bg {
+	fill: rgba(255,255,255,1);
+}
+.white_bg {
+	filter: drop-shadow(0px 0px 59px rgba(96, 233, 255, 0.271));
+	position: absolute;
+	overflow: visible;
+	width: 547px;
+	height: 593px;
+	left: 0px;
+	top: 0px;
+}
+#bg_big_line {
+	fill: rgba(10,190,173,1);
+}
+.bg_big_line {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 416px;
+	left: 0px;
+	top: 0px;
+}
+#Education_ {
+	position: absolute;
+	width: 303px;
+	height: 106px;
+	left: 11px;
+	top: 66px;
+	overflow: visible;
+}
+#Rectangle_411 {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_411 {
+	filter: drop-shadow(0px 0px 59px rgba(96, 233, 255, 0.271));
+	position: absolute;
+	overflow: visible;
+	width: 480px;
+	height: 227px;
+	left: 0px;
+	top: 56px;
+}
+#Education_ba {
+	left: 51px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume.html;
+	cursor: pointer;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Poppins-SemiBold, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(15,14,14,1);
+}
+#Icon_awesome-user-graduate {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-user-graduate {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 21.999px;
+	left: 0px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#work_history {
+	position: absolute;
+	width: 189px;
+	height: 50px;
+	left: 9px;
+	top: 118.999px;
+	overflow: visible;
+}
+#Rectangle_411_copy {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_411_copy {
+	filter: drop-shadow(0px 0px 59px rgba(96, 233, 255, 0.271));
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 480px;
+	height: 227px;
+	left: -9px;
+	top: 0.001px;
+}
+#Work_History_be {
+	left: 59px;
+	top: 9.001px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Poppins-SemiBold, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_413_copy {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_413_copy {
+	overflow: visible;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#history_icon {
+	fill: rgba(255,255,255,1);
+}
+.history_icon {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 21.999px;
+	left: 3px;
+	top: 14.001px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Programming_skill {
+	position: absolute;
+	width: 246px;
+	height: 50px;
+	left: 9px;
+	top: 183.999px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume_3.html;
+	cursor: pointer;
+}
+#Rectangle_411_copy_2 {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_411_copy_2 {
+	filter: drop-shadow(0px 0px 59px rgba(96, 233, 255, 0.271));
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 480px;
+	height: 227px;
+	left: -9px;
+	top: 0.001px;
+}
+#Programming_Skill {
+	left: 58px;
+	top: 9.001px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Poppins-SemiBold, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(51,51,51,1);
+}
+#Rectangle_413 {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_413 {
+	overflow: visible;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-laptop-code {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-laptop-code {
+	overflow: visible;
+	position: absolute;
+	width: 24.126px;
+	height: 19.301px;
+	left: 1px;
+	top: 15.349px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Design_Skill {
+	position: absolute;
+	width: 210px;
+	height: 50px;
+	left: 4px;
+	top: 248px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume_4.html;
+	cursor: pointer;
+}
+#Rectangle_411_copy_3 {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_411_copy_3 {
+	filter: drop-shadow(0px 0px 59px rgba(96, 233, 255, 0.271));
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 480px;
+	height: 227px;
+	left: -4px;
+	top: 0px;
+}
+#Designer_Skills {
+	left: 64px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Poppins-SemiBold, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(51,51,51,1);
+}
+#Rectangle_414 {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_414 {
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_map-art-gallery {
+	fill: rgba(255,255,255,1);
+}
+.Icon_map-art-gallery {
+	overflow: visible;
+	position: absolute;
+	width: 23.302px;
+	height: 18.448px;
+	left: 7px;
+	top: 15.775px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Seo_skill {
+	position: absolute;
+	width: 156px;
+	height: 50px;
+	left: 6px;
+	top: 312px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume_5.html;
+	cursor: pointer;
+}
+#Rectangle_411_copy_4 {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_411_copy_4 {
+	filter: drop-shadow(0px 0px 59px rgba(96, 233, 255, 0.271));
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 480px;
+	height: 227px;
+	left: -6px;
+	top: 0px;
+}
+#SEO_Skills {
+	left: 62px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Poppins-SemiBold, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(51,51,51,1);
+}
+#Rectangle_415 {
+	fill: rgba(10,190,173,1);
+}
+.Rectangle_415 {
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#Icon_awesome-chart-bar {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-chart-bar {
+	overflow: visible;
+	position: absolute;
+	width: 18.888px;
+	height: 14.167px;
+	left: 7px;
+	top: 17.962px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#title {
+	position: absolute;
+	width: 246px;
+	height: 131px;
+	left: 1324.603px;
+	top: 211.298px;
+	overflow: visible;
+}
+#line {
+	position: absolute;
+	width: 240px;
+	height: 11px;
+	left: 3px;
+	top: 120px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(10,190,173,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 100;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 240px;
+	height: 2px;
+	left: 0px;
+	top: 5.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#line_bz {
+	fill: rgba(10,190,173,1);
+}
+.line_bz {
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	height: 11px;
+	left: 104px;
+	top: 0px;
+}
+#My_formal_Bio_Details {
+	left: 0px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Poppins-Regular, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(51,51,51,1);
+	letter-spacing: 2.5px;
+}
+#Resume_b {
+	left: 22px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	line-height: 57.60000228881836px;
+	margin-top: -4.80000114440918px;
+	text-align: left;
+	font-family: Poppins-Bold, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(10,190,173,1);
+}
+#Header {
+	position: absolute;
+	width: 1895px;
+	height: 150px;
+	left: 13px;
+	top: 35px;
+	overflow: visible;
+}
+#bg_b {
+	fill: rgba(255,255,255,1);
+}
+.bg_b {
+	filter: drop-shadow(0px 3px 59px rgba(4, 195, 255, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 2072px;
+	height: 327px;
+	left: 0px;
+	top: 0px;
+}
+#Contact_Me {
+	left: 1528px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contact_Me.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Portfolio {
+	left: 1385px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Portfolio.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Services {
+	left: 1241px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Services.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Resume_ca {
+	left: 1099px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Resume.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#About_me {
+	left: 940px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: About_Me.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Home {
+	left: 820px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(10,190,173,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 277px;
+	height: 109px;
+	left: 373px;
+	top: 21px;
+	overflow: visible;
+}
+#My {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	line-height: 93.60000610351562px;
+	margin-top: -7.8000030517578125px;
+	text-align: left;
+	font-family: Poppins-Black, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 78px;
+	color: rgba(10,190,173,1);
+}
+#portfolio {
+	left: 132px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Poppins-Black, 'Poppins', sans-serif;;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(10,190,173,1);
+}
