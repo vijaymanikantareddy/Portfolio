@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function validateForm() {
+  var x = document.forms["myForm"]["fname"].value;
+  if (x == "" || x == null) {
+    alert("Name must be filled out");
+    return false;
+  }
+}
+</script>
+</head>
+<body>
+
+<h2>Enter Your name to get the resume of Vijay Manikanta Reddy Sathi</h2>
+<p>Without entering any text, the resume will not open.</p>
+
+<form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post" required>
+  Name: <input type="text" name="fname">
+   <a href="Resume.html"> <input type="submit" value="Submit">
+ </a>
+</form>
+
+</body>
+</html>
